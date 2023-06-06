@@ -1,0 +1,9 @@
+How to use CRASH v1.5 by Yuhkil?
+
+1. Put the script in the Lua Executor of GrowPai
+
+2. While in a world type in /c 
+
+3. You'll now see a text pop up in your chat saying that the crash has started
+
+4. Enjoy Crashing
