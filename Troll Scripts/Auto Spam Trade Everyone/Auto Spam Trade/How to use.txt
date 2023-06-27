@@ -1,0 +1,5 @@
+1. Copy paste the script into the lua executor of GrowPai
+2. Run the script
+3. If you did it good it will say Callback in the right bottom
+4. Then type in chat (in growtopia) /t
+5. Done
