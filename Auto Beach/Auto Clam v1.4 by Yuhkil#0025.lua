@@ -1,6 +1,6 @@
 -- Auto Clam v1.4 by Yuhkil#0025
 -- Make sure you have tickets, otherwise you'll get less pearls
--- USING DOORID IS USELESS!!
+-- USE ANTI DC CPS !!!! OTHERWISE YOU GET AUTO BANNED!!
 
 local DELAY = 180
 
