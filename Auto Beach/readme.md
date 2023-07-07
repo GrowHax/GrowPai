@@ -1,5 +1,12 @@
 # Changelogs
 
+
+## V1.4.4
+- Fixed the annoying punch
+- Improved stability pathfinder (after patch)
+- Made it low ping friendly
+
+
 ## V1.4.2 (Pushed light update)
 - Fixed Auto Ban
 - Changed pathfinder method
