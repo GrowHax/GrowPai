@@ -5,6 +5,7 @@
 - Fixed the annoying punch
 - Improved stability pathfinder (after patch)
 - Made it low ping friendly
+- Slightly faster
 
 
 ## V1.4.2 (Pushed light update)
