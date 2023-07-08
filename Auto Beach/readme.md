@@ -1,5 +1,8 @@
 # Changelogs
 
+## V1.5
+- Fixed Auto Ban
+
 
 ## V1.4.4
 - Fixed the annoying punch
