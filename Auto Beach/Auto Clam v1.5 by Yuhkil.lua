@@ -1,0 +1,3 @@
+-- FIXED AUTO BAN
+-- Want to buy it? Join the discord https://discord.gg/SES9tgHEHE
+-- ITS ONLY 1DL !!!!
