@@ -1,5 +1,11 @@
 # Changelogs
 
+## V1.5.3
+- Fixed Auto ban (again)
+- Fixed PathFinder
+- Improved PathFinder
+
+
 ## V1.5
 - Fixed Auto Ban
 
