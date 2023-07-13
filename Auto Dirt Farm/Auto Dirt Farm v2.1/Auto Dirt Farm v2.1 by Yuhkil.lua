@@ -1,6 +1,6 @@
 -- Auto Dirt Farm v2.1 by Yuhkil
 -- https://discord.gg/SES9tgHEHE
--- TURN ON GHOST AND ANTI DC CPS BEFORE STARTING!!
+-- TURN ON MODFLY & GHOST & ANTI DC CPS BEFORE STARTING!!
 -----------------------------------------------------------
 local delay = 180 -- dont change this if ur network is stable
 -----------------------------------------------------------
