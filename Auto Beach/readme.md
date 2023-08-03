@@ -1,6 +1,6 @@
 # Changelogs
 
-## V1.5.3
+## V1.5.3 (STILL WORKING AS OF 04/08/2023)
 - Fixed Auto ban (again)
 - Fixed PathFinder
 - Improved PathFinder
