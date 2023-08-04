@@ -1,3 +1,3 @@
--- FIXED AUTO BAN AGAIN
+-- FIXED PATHFINDER!!
 -- Want to buy it? Join the discord https://discord.gg/SES9tgHEHE
--- ITS ONLY 2DL !!!!
+-- ITS ONLY 2DL!!!!
