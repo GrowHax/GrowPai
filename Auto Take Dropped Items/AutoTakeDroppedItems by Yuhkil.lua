@@ -1,6 +1,6 @@
 -- Auto Take Dropped Items by Yuhkil
 -- For More Check on https://github.com/GrowHax
-
+-- Don't forget to Turn on ModFly & Ghost!!
 local ID = 15 -- Change with any ItemID
 
 -----------------------------------------------
